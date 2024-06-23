@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jhostin Andel Poma Cruz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Jhostin Andel Poma Cruz</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#sobre-mi">Sobre Mí</a></li>
+                <li><a href="#universidad">Universidad</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="inicio">
+            <h2>Inicio</h2>
+            <p>Bienvenido a mi página personal.</p>
+        </section>
+        
+        <section id="sobre-mi">
+            <h2>Sobre Mí</h2>
+            <p>Mi nombre completo es Jhostin Andel Poma Cruz. Tengo 19 años de edad y actualmente vivo en Perú, en la ciudad de Arequipa. Me gusta mucho la programación, los videojuegos y las matemáticas. Con respecto a estudios superiores, estoy cursando el curso de Ciencias de la Computación en la UCSP. También tengo cuatro perros y una gata, con quienes escucho música de Joji y música del tipo lenta pero que suena bien.</p>
+        </section>
+        
+        <section id="universidad">
+            <h2>Universidad Católica San Pablo</h2>
+            <p>"La Universidad Católica San Pablo es una comunidad académica animada por las orientaciones y vida de la Iglesia Católica que, a la luz de la fe y con el esfuerzo de la razón, busca la verdad y promueve la formación integral de la persona mediante actividades como la investigación, la enseñanza y la extensión, para contribuir con la configuración de la cultura conforme a la identidad y despliegue propios del ser humano."</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Jhostin Andel Poma Cruz</p>
+    </footer>
+</body>
+</html>
